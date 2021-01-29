@@ -109,9 +109,6 @@ http://odenfull.co:8691/XVi9kJBb9E/YGwiXsXdeK/102919
 #EXTINF:-1,COL HD: CANAL UNO
 http://odenfull.co:8691/XVi9kJBb9E/YGwiXsXdeK/102921
 
-#EXTINF:-1,COL SD: CITY TV
-http://odenfull.co:8691/XVi9kJBb9E/YGwiXsXdeK/102922
-
 #EXTINF:-1,COL HD: CITY TV
 http://odenfull.co:8691/XVi9kJBb9E/YGwiXsXdeK/102923
 
@@ -132,7 +129,6 @@ http://odenfull.co:8691/XVi9kJBb9E/YGwiXsXdeK/103376
 
 #EXTINF:-1,REL: EWTN
 http://odenfull.co:8691/XVi9kJBb9E/YGwiXsXdeK/103620
-
 
 #EXTINF:-1,COL HD: RANCHENATO
 http://odenfull.co:8691/XVi9kJBb9E/YGwiXsXdeK/104018
@@ -436,3 +432,52 @@ http://odenfull.co:8691/XVi9kJBb9E/YGwiXsXdeK/111712
 
 #EXTINF:-1,CR:VMLATINO HD
 http://odenfull.co:8691/XVi9kJBb9E/YGwiXsXdeK/112868
+
+#EXTINF:-1 tvg-id="Nat Geo Kids HD" tvg-name="KIDS HD : NAT GEO KIDS " tvg-logo="https://i.ibb.co/QpVyHkZ/nat.png" group-title="INFANTILES",KIDS HD : NAT GEO KIDS 
+http://odenfull.co:8691/XVi9kJBb9E/YGwiXsXdeK/58036
+
+#EXTINF:-1 tvg-id="TOONCAST HD" tvg-name="KIDS HD: TOONCAST " tvg-logo="https://i.ibb.co/7r7Nw3S/ton.png" group-title="INFANTILES",KIDS HD: TOONCAST 
+http://odenfull.co:8691/XVi9kJBb9E/YGwiXsXdeK/58038
+
+#EXTINF:-1 tvg-id="BabyFirst HD" tvg-name="KIDS HD: BABY FIRDS" tvg-logo="https://i.ibb.co/K2JWZD1/baby.png" group-title="INFANTILES",KIDS HD: BABY FIRDS
+http://odenfull.co:8691/XVi9kJBb9E/YGwiXsXdeK/58040
+
+#EXTINF:-1 tvg-id="BABY TV HD" tvg-name="KIDS HD :BABY TV " tvg-logo="https://i.ibb.co/bjtLpg0/baby-tv.png" group-title="INFANTILES",KIDS HD :BABY TV 
+http://odenfull.co:8691/XVi9kJBb9E/YGwiXsXdeK/58042
+
+#EXTINF:-1 tvg-id="Canal Nicktoons HD" tvg-name="KIDS HD: NICKTOONS" tvg-logo="https://i.ibb.co/dKJjhwX/nick.png" group-title="INFANTILES",KIDS HD: NICKTOONS
+http://odenfull.co:8691/XVi9kJBb9E/YGwiXsXdeK/58045
+
+#EXTINF:-1 tvg-id="NICK JR HD" tvg-name="KIDS HD : NICK JR" tvg-logo="https://i.ibb.co/HgWvqF3/jr.png" group-title="INFANTILES",KIDS HD : NICK JR
+http://odenfull.co:8691/XVi9kJBb9E/YGwiXsXdeK/58046
+
+#EXTINF:-1 tvg-id="Canal Nick 2 HD" tvg-name="KIDS HD : NICK 2" tvg-logo="https://i.ibb.co/sJJNyHk/nick2.png" group-title="INFANTILES",KIDS HD : NICK 2
+http://odenfull.co:8691/XVi9kJBb9E/YGwiXsXdeK/58048
+
+#EXTINF:-1 tvg-id="NICK HD" tvg-name="KIDS HD : NICK" tvg-logo="https://i.ibb.co/ThgxK4r/nik.png" group-title="INFANTILES",KIDS HD : NICK
+http://odenfull.co:8691/XVi9kJBb9E/YGwiXsXdeK/58050
+
+#EXTINF:-1 tvg-id="NICKELODEON HD" tvg-name="KIDS HD : NICKELODEON" tvg-logo="https://i.ibb.co/Fx9Ccnv/nicke.png" group-title="INFANTILES",KIDS HD : NICKELODEON
+http://odenfull.co:8691/XVi9kJBb9E/YGwiXsXdeK/58052
+
+#EXTINF:-1 tvg-id="BOOMERANG HD" tvg-name="KIDS HD : BOOMERANG" tvg-logo="https://i.ibb.co/qCRrGm8/boom.png" group-title="INFANTILES",KIDS HD : BOOMERANG
+http://odenfull.co:8691/XVi9kJBb9E/YGwiXsXdeK/58054
+
+#EXTINF:-1 tvg-id="DISCOVERY KIDS HD" tvg-name="KIDS HD : DISCOVERY KIDS" tvg-logo="https://i.ibb.co/sR5SpW2/DK.png" group-title="INFANTILES",KIDS HD : DISCOVERY KIDS
+http://odenfull.co:8691/XVi9kJBb9E/YGwiXsXdeK/58056
+
+#EXTINF:-1 tvg-id="DISNEY JR. HD" tvg-name="KIDS HD : DISNEY JUNIOR" tvg-logo="https://i.ibb.co/x57SHGL/JUMIOR.png" group-title="INFANTILES",KIDS HD : DISNEY JUNIOR
+http://odenfull.co:8691/XVi9kJBb9E/YGwiXsXdeK/58058
+
+#EXTINF:-1 tvg-id="DISNEY XD HD" tvg-name="KIDS HD : DISNEY XD" tvg-logo="https://i.ibb.co/3Fd8BQp/XD.png" group-title="INFANTILES",KIDS HD : DISNEY XD
+http://odenfull.co:8691/XVi9kJBb9E/YGwiXsXdeK/58060
+
+#EXTINF:-1 tvg-id="DISNEY JR. HD" tvg-name="KIDS HD : DISNEY JR" tvg-logo="https://i.ibb.co/rF0bQzv/JUNIOR.png" group-title="INFANTILES",KIDS HD : DISNEY JR
+http://odenfull.co:8691/XVi9kJBb9E/YGwiXsXdeK/58063
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL HD" tvg-name="KIDS HD : DISNEY CHANNEL" tvg-logo="https://i.ibb.co/3C9GvMH/DIS.png" group-title="INFANTILES",KIDS HD : DISNEY CHANNEL
+http://odenfull.co:8691/XVi9kJBb9E/YGwiXsXdeK/58065
+
+#EXTINF:-1 tvg-id="CARTOON NETWORK HD" tvg-name="KIDS HD : CARTOON NETWORK" tvg-logo="https://i.ibb.co/nMzLYdP/NETWOR.png" group-title="INFANTILES",KIDS HD : CARTOON NETWORK
+http://odenfull.co:8691/XVi9kJBb9E/YGwiXsXdeK/58067
+
